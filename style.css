@@ -1,0 +1,112 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+#tittle {
+  color: #EE24FF;
+}
+
+span {
+  color: #3F3D56;
+}
+
+#img1 {
+  margin: 0px auto 10px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  color: #3F3D56;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #828282;
+
+  margin: 10px auto 10px;
+
+  width: 620px;
+}
+
+#line {
+  margin: 0 auto 16px;
+
+  height: -14.6px;  
+  width: 500px;
+  
+
+  border: 1px solid #ECEFF2;
+}
+
+#destino {
+  bottom: 144.83px;
+  margin-top: 630px;
+  margin-right: 50px;
+  margin-left: 42px;
+
+  width: 66px;
+  height: 15.17px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22.15px;
+
+  text-align: center;
+    
+  color: #3F3D56;
+}
+
+#ofertas {
+  margin-bottom: 144.83px;
+  margin-top: 630px;
+  margin-right: 50px;
+  margin-left: 42px;
+  
+  height: 15.17px;
+  width: 57px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22.15px;
+
+  text-align: center ;
+
+  color: #3F3D56;
+}
+
+#contato {
+  bottom: 144.83px;
+  margin-top: 630px;
+  margin-right: 50px;
+  margin-left: 42px;
+  
+  height: 15.17px;
+  width: 61px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22.15px;
+
+  text-align: center;
+
+  color: #3F3D56;
+}
+
+#img2 {
+  text-align: center;
+
+  width: 740px;
+  height: 80px;
+
+  top: 686px;
+
+  background: #3F3D56;
+}
